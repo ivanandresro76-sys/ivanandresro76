@@ -90,7 +90,7 @@ En este perfil encontrarás diferentes proyectos y ejercicios relacionados con:
 
 📍 **Medellín, Colombia 🇨🇴**
 
-🐙 **GitHub:** [Mi perfil](https://github.com/ivanandresro76)
+🐙 **GitHub:** [Mi perfil](https://github.com/ivanandresro76-sys)
 
 ---
 
