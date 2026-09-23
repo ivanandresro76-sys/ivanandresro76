@@ -1,4 +1,4 @@
-# ivanandresro76# 👋 ¡Hola! Soy Ivan Andres Rodriguez Zambrano
+# ivanandresro76-sys# 👋 ¡Hola! Soy Ivan Andres Rodriguez Zambrano
 
 ## 💻 Estudiante de Desarrollo de Software
 
@@ -12,7 +12,7 @@
 
 Soy estudiante de Desarrollo de Software interesado en la programación y la tecnología.
 
-Actualmente estoy fortaleciendo mis conocimientos en **Java, programación orientada a objetos, algoritmos, estructuras de control, MATLAB y álgebra lineal**.
+Actualmente estoy fortaleciendo mis conocimientos en **Java, programación orientada a objetos, algoritmos y estructuras de control**.
 
 Me gusta aprender mediante la práctica, desarrollar proyectos y mejorar continuamente mis habilidades de programación.
 
@@ -27,13 +27,10 @@ Me gusta aprender mediante la práctica, desarrollar proyectos y mejorar continu
 ### 📚 También tengo conocimientos en
 
 * ☕ Java
-* 📐 MATLAB
 * 🧠 Lógica de programación
 * 🔢 Algoritmos
 * 🏗️ Programación Orientada a Objetos
-* 📊 Matrices y álgebra lineal
 * 🔄 Estructuras de control
-* 📝 Pseudocódigo
 
 ---
 
@@ -45,8 +42,6 @@ En este perfil encontrarás diferentes proyectos y ejercicios relacionados con:
 * 🧮 Algoritmos matemáticos
 * 🧠 Ejercicios de lógica de programación
 * 🏗️ Programación Orientada a Objetos
-* 📊 MATLAB
-* 🔢 Álgebra lineal y matrices
 * 🎓 Proyectos académicos
 
 ---
@@ -56,7 +51,6 @@ En este perfil encontrarás diferentes proyectos y ejercicios relacionados con:
 ```text
 ☕ Java
 🧠 Programación Orientada a Objetos
-📊 MATLAB
 🐙 Git y GitHub
 🌐 Desarrollo de Software
 ```
@@ -66,8 +60,8 @@ En este perfil encontrarás diferentes proyectos y ejercicios relacionados con:
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanandresro76&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanandresro76=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanandresro76-sys&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanandresro76-sys=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -82,7 +76,6 @@ En este perfil encontrarás diferentes proyectos y ejercicios relacionados con:
 
 📚 Aprender nuevas tecnologías.
 
-💼 Construir un buen portafolio como desarrollador de software.
 
 ---
 
